@@ -39,7 +39,7 @@ int main() {
     string major   = "📖 Computer Science";
     string learn   = "🌱 Android, Kotlin, Python, C/C++, PHP, SQL, Frontend Web Dev.";
     string collab  = "👯 Mobile Development";
-    string ask     = "💬  Android, Kotlin, Python, C/C++";
+    string ask     = "💬 Android, Kotlin, Python, C/C++";
     string email_1 = "📫 pietertanoto01@gmail.com";
     string email_2 = "📫 pietertanoto@students.usu.ac.id";
     string funfact = "⚡ Brain is part of the body :)";
