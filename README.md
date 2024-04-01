@@ -169,7 +169,8 @@ int main() {
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=PieByter&theme=nightowl&date_format=j%20M%5B%20Y%5D&fire=FF6600&ring=FF6656&hide_border=true" alt="GitHub Streak" />
   <br/>
   <img width="35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PieByter&langs_count=10&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" />
-  <img width="63.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=PieByter&layuout=compact&theme=nightowl&v=2&hide_border=true" alt="Wakatime Stats" />
+   <img width="63.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=PieByter&layuout=compact&theme=nightowl&v=2&hide_border=true" alt="Wakatime Stats" />
+</details>
 </details>
 
 <details>
