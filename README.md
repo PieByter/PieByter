@@ -178,7 +178,11 @@ int main() {
   <img width="99.5%" src="https://github-profile-trophy.vercel.app/?username=PieByter&theme=algolia&no-frame=true&column=-1&margin-w=5&margin-h=5" alt="GitHub Trophy" />
 </details>
 
-<br/>
+<details>
+    <summary>🎮 GitHub Activity Graph</summary>
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PieByter&bg_color=bfe5fd&color=0b0c2d&line=009dff&point=988b8b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <br/>
+</details>
 
 <!-- <div align="center">
   <p>Aaaaggghhhhhh!! My contribution grapgh is getting eaten by this damn snake!! 😡</p>
