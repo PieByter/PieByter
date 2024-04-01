@@ -180,9 +180,11 @@ int main() {
 
 <details>
     <summary>🎮 GitHub Activity Graph</summary>
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PieByter&bg_color=bfe5fd&color=0b0c2d&line=009dff&point=988b8b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  <br/>
+    <br/>
+    [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PieByter&bg_color=bfe5fd&color=0b0c2d&line=009dff&point=988b8b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+    <br/>
 </details>
+
 
 <!-- <div align="center">
   <p>Aaaaggghhhhhh!! My contribution grapgh is getting eaten by this damn snake!! 😡</p>
