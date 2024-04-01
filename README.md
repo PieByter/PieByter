@@ -193,4 +193,4 @@ int main() {
 
 <h1></h1>
 
-<p>&#169; 2024 Pieter Tanoto</p>
+<p align="center">&#169; 2024 Pieter Tanoto</p>
