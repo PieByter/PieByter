@@ -181,7 +181,8 @@ int main() {
 <details>
     <summary>🎮 GitHub Activity Graph</summary>
     <br/>
-    [Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PieByter&bg_color=bfe5fd&color=0b0c2d&line=009dff&point=988b8b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <img width="99.5%" src="https://github.com/ashutosh00710/github-readme-activity-graph" alt="GitHub Activity Graph" />
+    [![PieByter's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PieByter&bg_color=bfe5fd&color=0b0c2d&line=009dff&point=988b8b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
     <br/>
 </details>
 
