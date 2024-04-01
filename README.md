@@ -156,11 +156,11 @@ int main() {
 
 <h2>⚙️ GitHub Statistics</h2>
 
-<details>
+<!-- <details>
   <summary>📈 GitHub Contribution Graph</summary>
   <br/>
   <img width="99.5%" src="https://activity-graph.herokuapp.com/graph?username=PieByter&custom_title=Andrew%20Benedictus%20Jamesie%20Trips's%20Contribution%20Graph&theme=nightowl&bg_color=011627&color=a77DCB&hide_border=true&line=a77DCB&point=7fdbca&area=true&area_color=045599" alt="PieByter Trips' Activity Graph" />
-</details>
+</details> -->
 
 <details>
   <summary>🎛️ GitHub Profile Stats</summary>
@@ -180,10 +180,10 @@ int main() {
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <p>Aaaaggghhhhhh!! My contribution grapgh is getting eaten by this damn snake!! 😡</p>
   <img width="99.5%" src="https://github.com/PieByter/PieByter/blob/output/github-contribution-grid-snake.svg" alt="Snake">
-</div>
+</div> -->
 
 <h1></h1>
 
