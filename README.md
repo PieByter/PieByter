@@ -171,7 +171,6 @@ int main() {
   <img width="35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PieByter&langs_count=10&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" />
    <img width="63.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@PieByter&layuout=compact&theme=nightowl&v=2&hide_border=true" alt="Wakatime Stats" />
 </details>
-</details>
 
 <details>
   <summary>🏆 GitHub Trophy</summary>
