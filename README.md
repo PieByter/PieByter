@@ -62,9 +62,9 @@ int main() {
   <a href="mailto:pietertanoto@students.usu.ac.id" title="Gmail">
     <img src="https://api.iconify.design/logos/google-gmail.svg" alt="Gmail" height="40" width="40"> 
   </a>
-  <a href="mailto:pietertanoto01@gmail.com" title="Yahoo">
+ <!-- <a href="mailto:pietertanoto01@gmail.com" title="Yahoo">
     <img src="https://api.iconify.design/fa-brands/yahoo.svg?color=%235f01d1" alt="Yahoo" height="40" width="40"> 
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/pieter-tanoto/" title="LinkedIn">
     <img src="https://api.iconify.design/logos/linkedin-icon.svg" alt="LinkedIn" height="40" width="40"> 
   </a>
