@@ -37,7 +37,7 @@ int main() {
     string work    = "🔭 - ";
     string study   = "🎓 Universitas Sumatera Utara (USU)";
     string major   = "📖 Computer Science";
-    string learn   = "🌱 Android, Kotlin, Python, C/C++, PHP, SQL, Frontend Web Dev.";
+    string learn   = "🌱 Android, Kotlin, Python, C/C++, PHP, SQL, and IT Support";
     string collab  = "👯 Mobile Development";
     string ask     = "💬 Android, Kotlin, Python, C/C++";
     string email_1 = "📫 pietertanoto01@gmail.com";
@@ -45,7 +45,7 @@ int main() {
     string funfact = "⚡ Brain is part of the body :)";
     
     return 0;
-}
+
 ```
 
 <br/>
