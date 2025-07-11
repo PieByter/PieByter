@@ -53,7 +53,7 @@ int main() {
 <h2>🤝🏻 Connect with Me</h2>
 
 <p>
-  <a href="https://instagram.com/ptr_ion" title="Instagram">
+  <a href="https://instagram.com/piers_tno" title="Instagram">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" height="40" width="40"> 
   </a>
   <a href="https://www.youtube.com/@-PieterTanotoIlmuKomputer" title="YouTube">
