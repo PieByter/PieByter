@@ -1,195 +1,188 @@
 <div align="center">
-  <h1>Hello <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">,<br/>I’m Pieter Tanoto</h1>
-  <h3>Student at <a href="https://www.usu.ac.id" title="Transformation Towards the Ultimate Strategy for World Class University">Universitas Sumatera Utara</a>, Indonesia</h3>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PieByter&style=for-the-badge&label=profile+views"> &nbsp;
-  <img src="https://img.shields.io/github/last-commit/PieByter/PieByter?style=for-the-badge">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Pieter+Tanoto+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%92%BB;Full+Stack+Developer+in+Progress+%F0%9F%9A%80" alt="Typing SVG" />
+  
+  <h3>🎓 Universitas Sumatera Utara | Medan, Indonesia</h3>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=PieByter&style=flat-square&color=blueviolet" alt="Profile Views">
+    <img src="https://img.shields.io/github/followers/PieByter?style=flat-square&color=blueviolet" alt="Followers">
+    <img src="https://img.shields.io/github/stars/PieByter?style=flat-square&color=blueviolet" alt="Stars">
+  </p>
 </div>
 
 <br/>
 
-<!--
-- 🔭 I’m currently working on ...
-- 🎓 I’m currently studying at University of North Sumatra
-- 📖 I'm majoring in ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
 
-<h2>👨🏻‍💻 About Me</h2>
-
-```cpp
-#include <iostream>
-#include <string>
-using namespace std;
-
-int main() {
-    cout << "👋🏻 Pieter Tanoto\n";
-    cout << "Welcome to My World is my first code\n";
+```kotlin
+class Developer {
+    val name = "Pieter Tanoto"
+    val location = "Medan, Indonesia 🇮🇩"
+    val education = "Computer Science @ USU"
     
-    string work    = "🔭 - ";
-    string study   = "🎓 Universitas Sumatera Utara (USU)";
-    string major   = "📖 Computer Science";
-    string learn   = "🌱 Android, Kotlin, Python, C/C++, PHP, SQL, and IT Support";
-    string collab  = "👯 Mobile Development";
-    string ask     = "💬 Android, Kotlin, Python, C/C++";
-    string email_1 = "📫 pietertanoto01@gmail.com";
-    string email_2 = "📫 pietertanoto@students.usu.ac.id";
-    string funfact = "⚡ Brain is part of the body :)";
+    val currentlyLearning = listOf(
+        "Android Development with Kotlin",
+        "Machine Learning & AI",
+        "Cloud Computing",
+        "System Design"
+    )
     
-    return 0;
-
+    val techStack = mapOf(
+        "languages" to listOf("Kotlin", "Python", "C++", "Java", "PHP"),
+        "mobile" to listOf("Android", "Jetpack Compose"),
+        "database" to listOf("MySQL", "SQLite", "Firebase"),
+        "tools" to listOf("Git", "Docker", "Android Studio", "VS Code")
+    )
+    
+    fun getGoal() = "Building impactful solutions through code 💡"
+}
 ```
 
 <br/>
 
-<h2>🤝🏻 Connect with Me</h2>
+## 💼 What I'm Up To
 
-<p>
-  <a href="https://instagram.com/piers_tno" title="Instagram">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" height="40" width="40"> 
-  </a>
-  <a href="https://www.youtube.com/@-PieterTanotoIlmuKomputer" title="YouTube">
-    <img src="https://api.iconify.design/logos/youtube-icon.svg" alt="YouTube" height="40" width="40"> 
-  </a>
-  <a href="mailto:pietertanoto@students.usu.ac.id" title="Gmail">
-    <img src="https://api.iconify.design/logos/google-gmail.svg" alt="Gmail" height="40" width="40"> 
-  </a>
- <!-- <a href="mailto:pietertanoto01@gmail.com" title="Yahoo">
-    <img src="https://api.iconify.design/fa-brands/yahoo.svg?color=%235f01d1" alt="Yahoo" height="40" width="40"> 
-  </a> -->
-  <a href="https://www.linkedin.com/in/pieter-tanoto/" title="LinkedIn">
-    <img src="https://api.iconify.design/logos/linkedin-icon.svg" alt="LinkedIn" height="40" width="40"> 
-  </a>
-  <a href="https://github.com/PieByter" title="GitHub">
-    <img src="https://api.iconify.design/bi/github.svg?color=%235c6bc0" alt="GitHub" height="40" width="40"> 
-  </a>
-  <a href="https://stackoverflow.com/users/22934296" title="Stack Overflow">
-    <img src="https://api.iconify.design/logos/stackoverflow-icon.svg" alt="Stack Overflow" height="40" width="40"> 
-  </a>
-  <a href="https://www.hackerrank.com/profile/pieter037" title="HackerRank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank" height="40" width="40"> 
-  </a>
-</p>
+- 🔭 Working on mobile applications and backend systems
+- 🌱 Deepening my knowledge in **Android Development** & **System Architecture**
+- 👯 Open to collaborate on **Open Source Projects**
+- 💬 Ask me about **Android, Kotlin, Python, or C++**
+- 📫 Reach me at: **pietertanoto01@gmail.com**
+- ⚡ Fun fact: **Code is poetry, but debugging is detective work 🕵️**
 
 <br/>
 
-<h2>🛠 Languages & Tools < / > </h2>
+## 🌐 Connect With Me
 
-<div>
-  <a href="https://www.cprogramming.com" title="C">
-    <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" height="40" width="40"> 
-  </a>
-  <a href="https://www.cplusplus.com/reference" title="C++">
-    <img src="https://api.iconify.design/logos/c-plusplus.svg" alt="C++" height="40" width="40"> 
-  </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide" title="C#">
-    <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" height="40" width="40"> 
-  </a>
-  <a href="https://www.python.org" title="Python">
-    <img src="https://api.iconify.design/logos/python.svg" alt="Python" height="40" width="40"> 
-  </a>
-  <a href="https://www.java.com" title="Java">
-    <img src="https://api.iconify.design/logos/java.svg" alt="Java" height="40" width="40"> 
-  </a>
-  <a href="https://kotlinlang.org" title="Kotlin">
-    <img src="https://api.iconify.design/logos/kotlin-icon.svg" alt="Kotlin" height="40" width="40"> 
-  </a>
-  <a href="https://www.w3schools.com/html" title="HTML">
-    <img src="https://api.iconify.design/vscode-icons/file-type-html.svg" alt="HTML" height="40" width="40"> 
-  </a>
-  <a href="https://www.w3schools.com/css" title="CSS">
-    <img src="https://api.iconify.design/vscode-icons/file-type-css.svg" alt="CSS" height="40" width="40"> 
-  </a>
-  <a href="https://www.javascript.com" title="JavaScript">
-    <img src="https://api.iconify.design/logos/javascript.svg" alt="JavaScript" height="40" width="40"> 
-  </a>
-  <a href="https://www.php.net" title="PHP">
-    <img src="https://api.iconify.design/logos/php.svg" alt="PHP" height="40" width="40"> 
-  </a>
-  <a href="https://www.mysql.com" title="MySQL">
-    <img src="https://api.iconify.design/logos/mysql.svg" alt="MySQL" height="40" width="40"> 
-  </a>
-  <a href="https://git-scm.com" title="Git">
-    <img src="https://api.iconify.design/logos/git-icon.svg" alt="Git" height="40" width="40"> 
-  </a>
-  <a href="https://www.figma.com" title="Figma">
-    <img src="https://api.iconify.design/logos/figma.svg" alt="Figma" height="40" width="40"> 
-  </a>
-  <a href="https://getbootstrap.com" title="Bootstrap">
-    <img src="https://api.iconify.design/logos/bootstrap.svg" alt="Bootstrap" height="40" width="40"> 
-  </a>
-  <a href="https://code.visualstudio.com" title="Visual Studio Code">
-    <img src="https://api.iconify.design/logos/visual-studio-code.svg" alt="Visual Studio Code" height="40" width="40"> 
-  </a>
-  <a href="https://visualstudio.microsoft.com" title="Visual Studio">
-    <img src="https://api.iconify.design/logos/visual-studio.svg" alt="Visual Studio" height="40" width="40"> 
-  </a>
-  <a href="https://www.jetbrains.com/idea" title="IntellJ IDEA">
-    <img src="https://api.iconify.design/logos/intellij-idea.svg" alt="IntellJ IDEA" height="40" width="40"> 
-  </a>
-  <a href="https://netbeans.apache.org" title="Apache NetBeans">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" alt="Apache NetBeans" height="40" width="auto">
-  </a>
-  <a href="https://developer.android.com/studio" title="Android Studio">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" alt="Android Studio" height="40" width="40">
-  </a>
-  <a href="https://www.mathworks.com/products/matlab.html" title="MATLAB">
-    <img src="https://api.iconify.design/vscode-icons/file-type-matlab.svg" alt="MATLAB" height="40" width="40">
-  </a>
-  <a href="https://colab.research.google.com" title="Google Collab">
-    <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Collab" height="40" width="40"> 
-  </a>
-  <a href="https://www.markdownguide.org" title="Markdown">
-    <img src="https://api.iconify.design/bi/markdown-fill.svg?color=%23aaa" alt="Markdown" height="40" width="40"> 
-  </a>
+<div align="center">
+  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/piers_tno)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pieter-tanoto/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@-PieterTanotoIlmuKomputer)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pietertanoto01@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22934296)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/pieter037)
+
 </div>
 
 <br/>
 
-<h2>⚙️ GitHub Statistics</h2>
+## 🛠️ Tech Stack
 
-<!-- <details>
-  <summary>📈 GitHub Contribution Graph</summary>
-  <br/>
-  <img width="99.5%" src="https://activity-graph.herokuapp.com/graph?username=PieByter&custom_title=Andrew%20Benedictus%20Jamesie%20Trips's%20Contribution%20Graph&theme=nightowl&bg_color=011627&color=a77DCB&hide_border=true&line=a77DCB&point=7fdbca&area=true&area_color=045599" alt="PieByter Trips' Activity Graph" />
-</details> -->
+### Languages
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<details>
-  <summary>🎛️ GitHub Profile Stats</summary>
-  <br/>
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=PieByter&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=PieByter&theme=nightowl&date_format=j%20M%5B%20Y%5D&fire=FF6600&ring=FF6656&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img width="35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PieByter&langs_count=10&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" />
-   <img width="63.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@PieByter&layuout=compact&theme=nightowl&v=2&hide_border=true" alt="Wakatime Stats" />
-</details>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<details>
-  <summary>🏆 GitHub Trophy</summary>
-  <br/>
-  <img width="99.5%" src="https://github-profile-trophy.vercel.app/?username=PieByter&theme=algolia&no-frame=true&column=-1&margin-w=5&margin-h=5" alt="GitHub Trophy" />
-</details>
+### Mobile Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
-<details>
-    <summary>🎮 GitHub Activity Graph</summary>
-    <br/>
-  <img width="99.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=PieByter&theme=react&point=988b8b&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</details>
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+### Tools & IDEs
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-<!-- <div align="center">
-  <p>Aaaaggghhhhhh!! My contribution grapgh is getting eaten by this damn snake!! 😡</p>
-  <img width="99.5%" src="https://github.com/PieByter/PieByter/blob/output/github-contribution-grid-snake.svg" alt="Snake">
-</div> -->
+<br/>
 
-<h1></h1>
+## 📊 GitHub Analytics
 
-<p align="center">&#169; 2024 Pieter Tanoto</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PieByter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PieByter&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PieByter&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PieByter&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PieByter&custom_title=Pieter's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PieByter/PieByter/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PieByter/PieByter/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PieByter/PieByter/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+<br/>
+
+## 🎯 Current Focus
+
+```mermaid
+mindmap
+  root((Pieter's Learning Path))
+    Mobile Development
+      Android with Kotlin
+      Jetpack Compose
+      Material Design
+    Backend
+      RESTful APIs
+      Database Design
+      Authentication
+    Cloud & DevOps
+      Firebase
+      Docker
+      CI/CD
+    Soft Skills
+      Problem Solving
+      Team Collaboration
+      Project Management
+```
+
+<br/>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  
+  **✨ Made with ❤️ by Pieter Tanoto**
+  
+  *Last Updated: 2025*
+</div>
