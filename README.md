@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Pieter+Tanoto+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%92%BB;Full+Stack+Developer+in+Progress+%F0%9F%9A%80" alt="Typing SVG" />
   
-  <h3>🎓 Universitas Sumatera Utara | Medan, Indonesia</h3>
+  <h3>🎓 Universitas Sumatera Utara — Graduated | Medan, Indonesia</h3>
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=PieByter&style=flat-square&color=blueviolet" alt="Profile Views">
@@ -18,7 +18,7 @@
 class Developer {
     val name = "Pieter Tanoto"
     val location = "Medan, Indonesia 🇮🇩"
-    val education = "Computer Science @ USU"
+    val education = "B.Sc. Computer Science — Universitas Sumatera Utara (Graduated)"
     
     val currentlyLearning = listOf(
         "Android Development with Kotlin",
