@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=36BCF7FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Pieter+Tanoto+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%92%BB;Full+Stack+Developer+in+Progress+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=36BCF7FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Pieter+Tanoto+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%92%BB;Software+Engineer+in+Progress+%F0%9F%9A%80" alt="Typing SVG" />
   <Color Code before : 6366F1>
   <h3>🎓 University Of North Sumatra (Graduated) | Medan, Indonesia</h3>
   
