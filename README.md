@@ -155,6 +155,7 @@ class Developer {
 ## 🎯 Current Focus
 
 ```mermaid
+%%{init: {'theme': 'forest'}}%%
 mindmap
   root((Pieter's Learning Path))
     Mobile Development
