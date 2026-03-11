@@ -141,7 +141,7 @@ class Developer {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-kannan.vercel.app/?username=PieByter&theme=algolia" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-kannan.vercel.app/?username=PieByter&theme=algolia&column=3&margin-w=20&margin-h=20&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
     <!-- <img src="https://github-profile-trophy.vercel.app/?username=PieByter&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/> -->
 </div>
 
