@@ -21,20 +21,20 @@ class Developer {
     val education = "B.Sc. Computer Science — Universitas Sumatera Utara (Graduated)"
     
     val currentlyLearning = listOf(
-        "Android Development with Kotlin",
-        "Machine Learning & AI",
-        "Cloud Computing",
-        "System Design"
+      "AI Automation & Workflow Engineering",
+      "Applied AI Systems & Integration",
+      "Data Engineering & Analytics",
+      "Cloud Infrastructure for Data Systems"
     )
     
     val techStack = mapOf(
         "languages" to listOf("Kotlin", "Python", "C++", "Java", "PHP"),
         "mobile" to listOf("Android", "Jetpack Compose"),
-        "database" to listOf("MySQL", "SQLite", "Firebase"),
-        "tools" to listOf("Git", "Docker", "Android Studio", "VS Code")
+        "database" to listOf("MySQL", "SQLite", "Firebase", "Supabase"),
+        "tools" to listOf("Git", "Docker", "Android Studio", "VS Code", "Antigravity", "Stitch AI (Google)")
     )
     
-    fun getGoal() = "Building impactful solutions through code 💡"
+    fun getGoal() = "Building impactful AI and data automation solutions 💡"
 }
 ```
 
@@ -42,10 +42,10 @@ class Developer {
 
 ## 💼 What I'm Up To
 
-- 🔭 Working on mobile applications and backend systems
-- 🌱 Deepening my knowledge in **Android Development** & **System Architecture**
+- 🔭 Building **automation systems** powered by AI and data pipelines
+- 🌱 Deepening my knowledge in **AI Automation**, **Data Engineering**, and **AI System Architecture**
 - 👯 Open to collaborate on **Open Source Projects**
-- 💬 Ask me about **Android, Kotlin, Python, or C++**
+- 💬 Ask me about **Python, AI Automation, Data Analytics, or Backend Development**
 - 📫 Reach me at: **pietertanoto01@gmail.com**
 - ⚡ Fun fact: **Code is poetry, but debugging is detective work 🕵️**
 
@@ -106,6 +106,7 @@ class Developer {
 ### Tools & IDEs
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -121,6 +122,8 @@ class Developer {
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-1F6FEB?style=for-the-badge&logo=deepseek&logoColor=white)
 ![Claude%20Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-111827?style=for-the-badge&logoColor=white)
+![Stitch%20AI%20(Google)](https://img.shields.io/badge/Stitch%20AI%20(Google)-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 <br/>
@@ -181,18 +184,33 @@ class Developer {
 %%{init: {'theme': 'forest'}}%%
 mindmap
   root((Pieter's Learning Path))
+    Agile & Workflow
+      Agile Principles
+      Scrum Framework
+      Sprint Planning
     Mobile Development
       Android with Kotlin
       Jetpack Compose
       Material Design
+    Web Development
+      Laravel
+      Next.js
+      Express.js
+      REST API Integration
     Backend
       RESTful APIs
       Database Design
       Authentication
     Cloud & DevOps
       Firebase
+      Supabase
       Docker
       CI/CD
+    Data & Analytics
+      MySQL
+      Data Cleaning
+      Exploratory Data Analysis
+      Data Visualization
     Soft Skills
       Problem Solving
       Team Collaboration
