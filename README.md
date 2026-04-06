@@ -21,20 +21,19 @@ class Developer {
     val education = "B.Sc. Computer Science — Universitas Sumatera Utara (Graduated)"
     
     val currentlyLearning = listOf(
-      "AI Automation & Workflow Engineering",
-      "Applied AI Systems & Integration",
-      "Data Engineering & Analytics",
-      "Cloud Infrastructure for Data Systems"
+      "Mobile Development",
+      "Backend Java Spring Boot",
+      "Quality Assurance"
     )
     
     val techStack = mapOf(
-        "languages" to listOf("Kotlin", "Python", "C++", "Java", "PHP"),
+        "languages" to listOf("Kotlin", "Java", "Python", "PHP", "JavaScript"),
         "mobile" to listOf("Android", "Jetpack Compose"),
-        "database" to listOf("MySQL", "SQLite", "Firebase", "Supabase"),
+        "database" to listOf("MySQL", "PostgreSQL", "SQLite", "Firebase", "Supabase", "MongoDB"),
         "tools" to listOf("Git", "Docker", "Android Studio", "VS Code", "Antigravity", "Stitch AI (Google)")
     )
     
-    fun getGoal() = "Building impactful AI and data automation solutions 💡"
+    fun getGoal() = "Build scalable impactful apps and programs 💡"
 }
 ```
 
@@ -42,27 +41,23 @@ class Developer {
 
 ## 💼 What I'm Up To
 
-- 🔭 Building **automation systems** powered by AI and data pipelines
-- 🌱 Deepening my knowledge in **AI Automation**, **Data Engineering**, and **AI System Architecture**
+- 🔭 Building **mobile apps** and **backend systems** with focus on quality assurance
+- 🌱 Deepening my knowledge in **Mobile Development**, **Backend Development**, and **Quality Assurance**
 - 👯 Open to collaborate on **Open Source Projects**
-- 💬 Ask me about **Python, AI Automation, Data Analytics, or Backend Development**
+- 💬 Ask me about **Mobile Development, Backend Development, Quality Assurance, AI or Automation Tools**
 - 📫 Reach me at: **pietertanoto01@gmail.com**
 - ⚡ Fun fact: **Code is poetry, but debugging is detective work 🕵️**
 
 <br/>
 
 ## 🌐 Connect With Me
-
-<div align="center">
   
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/piers_tno)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ptr.tno)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pieter-tanoto/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@-PieterTanotoIlmuKomputer)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@Piebyter)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pietertanoto01@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22934296)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/pieter037)
-
-</div>
 
 <br/>
 
@@ -70,11 +65,11 @@ class Developer {
 
 ### Languages
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<!-- ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) -->
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -104,26 +99,36 @@ class Developer {
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools & IDEs
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+#### IDEs & Editors
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+#### Version Control & Deployment
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+#### Design & Productivity
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Google%20Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+
+#### AI & Automation Tools
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-1F6FEB?style=for-the-badge&logo=deepseek&logoColor=white)
 ![Claude%20Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-111827?style=for-the-badge&logoColor=white)
 ![Stitch%20AI%20(Google)](https://img.shields.io/badge/Stitch%20AI%20(Google)-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-000000?style=for-the-badge&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 <br/>
